@@ -1,0 +1,9 @@
+Localization for Unity/Library
+Localization for Unity/Logs
+Localization for Unity/obj
+Localization for Unity/UserSettings
+Localization for Unity/Temp
+Localization for Unity/.idea
+*.sln
+*.csproj
+connectwebgl.zip
